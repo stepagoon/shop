@@ -1,0 +1,206 @@
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe.config
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.pdb
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csprojAssemblyReference.cache
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.autorisationForm.resources
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.Properties.Resources.resources
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.registerForm.resources
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.GenerateResource.cache
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.exe
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.pdb
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.menuForm.resources
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.dll
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.xml
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CopyComplete
+C:\Users\Student28\source\repos\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.goodsForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe.config
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.pdb
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.dll
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.xml
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.autorisationForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.menuForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.Properties.Resources.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.registerForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.GenerateResource.cache
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CoreCompileInputs.cache
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CopyComplete
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.exe
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.pdb
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.cartForm.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe.config
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.pdb
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.dll
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.xml
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.autorisationForm.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.cartForm.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.menuForm.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.Properties.Resources.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.registerForm.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.GenerateResource.cache
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CoreCompileInputs.cache
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CopyComplete
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.exe
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.pdb
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.adminForm.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.trackForm.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csprojAssemblyReference.cache
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.addItemsForm.resources
+C:\Users\cntgf\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ìtemsForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.addItemsForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.adminForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ìtemsForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editCartForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editItemsForm.resources
+C:\Users\Student28\Desktop\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ordersForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe.config
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.pdb
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.dll
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.xml
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csprojAssemblyReference.cache
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.addItemsForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.autorisationForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.cartForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.adminForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editCartForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editItemsForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ordersForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ìtemsForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.menuForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.Properties.Resources.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.registerForm.resources
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.GenerateResource.cache
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CoreCompileInputs.cache
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CopyComplete
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.exe
+C:\Users\Student28\Desktop\Курсач\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.pdb
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe.config
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.pdb
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.dll
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.xml
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csprojAssemblyReference.cache
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.addItemsForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.autorisationForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.cartForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.adminForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editCartForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editItemsForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ordersForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ìtemsForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.menuForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.Properties.Resources.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.registerForm.resources
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.GenerateResource.cache
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CoreCompileInputs.cache
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CopyComplete
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.exe
+C:\Users\cntgf\Desktop\fadf\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.pdb
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.AssemblyReference.cache
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.addItemsForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.autorisationForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.cartForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.adminForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editCartForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editItemsForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ordersForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ìtemsForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.menuForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.Properties.Resources.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.registerForm.resources
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.GenerateResource.cache
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CoreCompileInputs.cache
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.exe
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.pdb
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe.config
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.pdb
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.dll
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.xml
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\student20\Desktop\New folder (2)\Диплом\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CopyComplete
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe.config
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.exe
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\kolesnikovProject.pdb
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.dll
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.xml
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.autorisationForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.cartForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editCartForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ordersForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ìtemsForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.menuForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.Properties.Resources.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.registerForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.GenerateResource.cache
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CoreCompileInputs.cache
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CopyComplete
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.exe
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.pdb
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.addProvidersForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editProvidersForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.providersForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.addStorageForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.storageForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editStorageForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.editOrdersForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.ordersDetailsForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.printForm.resources
+C:\Users\cntgf\Desktop\Диплом 20\kolesnikovProject\kolesnikovProject\obj\Debug\kolesnikovProject.csprojAssemblyReference.cache
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\kolesnikovProject.exe.config
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\kolesnikovProject.exe
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\kolesnikovProject.pdb
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\EntityFramework.dll
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\EntityFramework.xml
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.csprojAssemblyReference.cache
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.addStorageForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.addProvidersForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.autorisationForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.cartForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.editOrdersForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.ordersDetailsForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.printForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.storageForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.editCartForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.editStorageForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.editProvidersForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.providersForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.ordersForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.ìtemsForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.menuForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.Properties.Resources.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.registerForm.resources
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.GenerateResource.cache
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CoreCompileInputs.cache
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.csproj.CopyComplete
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.exe
+C:\Users\cntgf\Desktop\Диплом финал\mindalSHOP\kolesnikovProject\obj\Debug\kolesnikovProject.pdb
